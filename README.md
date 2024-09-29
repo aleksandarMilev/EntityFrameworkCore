@@ -1,0 +1,1 @@
+This course covers Entity Framework Core, focusing on ORM principles, EF capabilities, and the use of Language Integrated Query (LINQ) for data querying. The curriculum includes advanced querying techniques, C# auto mapping, and processing JSON and XML data within .NET applications. Additionally, there are hands-on workshops and an introduction to NoSQL databases.
