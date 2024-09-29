@@ -1,1 +1,0 @@
-"Server = .\\SQLEXPRESS; Database = SoftUni; Integrated Security = True; TrustServerCertificate = true";
